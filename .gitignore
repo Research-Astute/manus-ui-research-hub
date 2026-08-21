@@ -1,0 +1,16 @@
+.env
+*.env
+*.pem
+*.key
+*token*
+*credential*
+*.log
+node_modules/
+dist/
+build/
+coverage/
+__pycache__/
+.pytest_cache/
+.session/
+browser-data/
+browser-profile/

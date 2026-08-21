@@ -1,0 +1,6 @@
+[submodule "research/manus-public-ui-research"]
+	path = research/manus-public-ui-research
+	url = https://github.com/search-astute-ly/manus-public-ui-research.git
+[submodule "development/manus-ui-adapter-lab"]
+	path = development/manus-ui-adapter-lab
+	url = https://github.com/Research-Astute/manus-ui-adapter-lab.git
